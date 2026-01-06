@@ -1,4 +1,4 @@
-# Hi there, I'm <Your Name> 👋
+# Hi there, I'm Mohamed Diakite 👋
 ###  Frontend Orchestrator | Building for the Edge & AI Era
 
 <div align="center">
