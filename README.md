@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 2026 Core Tech Stack
+### Tech Stack
 *I specialize in high-performance meta-frameworks and AI-assisted development workflows.*
 
 
