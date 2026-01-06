@@ -2,8 +2,7 @@
 ###  Frontend Orchestrator | Building for the Edge & AI Era
 
 <div align="center">
-  <img src="github-readme-stats.vercel.app<Mdodakitabs>&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="github-readme-streak-stats.herokuapp.com<Mdodakitabs>&theme=tokyonight" alt="GitHub Streak" />
+  about me
 </div>
 
 ---
