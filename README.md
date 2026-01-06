@@ -1,5 +1,5 @@
 # Hi there, I'm Mohamed Diakite 👋
-###  Frontend Orchestrator | Building for the Edge & AI Era
+###  about me
 
 <div align="center">
   about me
