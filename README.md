@@ -11,14 +11,19 @@
 ### 🚀 2026 Core Tech Stack
 *I specialize in high-performance meta-frameworks and AI-assisted development workflows.*
 
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+
+![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+
+
+
+
+
 ![Static Badge](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FHTML5-E34F26%3Flogo%3Dhtml5%26logoColor%3Dwhite)
 
 
 
-![React 19](img.shields.io)
-![TypeScript](img.shields.io)
-![Tailwind CSS](img.shields.io)
-![Bun](img.shields.io)
+
 
 ### 🤖 AI & Tooling Mastery
 *In 2026, I don't just code; I leverage AI to build faster and smarter.*
