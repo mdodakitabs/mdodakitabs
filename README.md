@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 I’m currently working on **e-commerce project**
-- 🌱 I’m currently learning ** Next.js 15, TypeScript**
+- 🌱 I’m currently learning...TypeScript
 - ⚡ Fun fact: ** I love football/ I built my first site at 2024 **
 
 ---
