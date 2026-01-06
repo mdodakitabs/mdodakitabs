@@ -2,8 +2,8 @@
 
 ### About Me
 - 🔭 I’m currently working on e-commerce project
-- 🌱 I’m currently learning...TypeScript
-- ⚡ Fun fact:  I love football/ I built my first site at 2024
+- 🌱 I’m currently learning TypeScript
+- ⚡ Fun fact:  I love football/ I built my first site in 2024
 
 ---
 
@@ -16,7 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
-![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Static
+Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/node_js-none?style=for-the-badge&logo=nodedotjs)
 
