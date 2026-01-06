@@ -24,6 +24,12 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+
+
+
+
+
 
 
 ### 🤖 AI & Tooling Mastery
