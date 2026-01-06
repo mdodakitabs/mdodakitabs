@@ -1,9 +1,8 @@
 # Hi there, I'm Mohamed Diakite 👋
-###  about me
-
-<div align="center">
-  about me
-</div>
+‎## 🚀 About Me
+‎- 🔭 I’m currently working on ** e-commerce  project**
+‎- 🌱 I’m currently learning **[Next.js 15, Three.js, ]**
+‎- ⚡ Fun fact: **[I love football/ I built my first site at 2024]**
 
 ---
 
