@@ -44,6 +44,3 @@ About Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohamedDiakite)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://MohamedDiakite.com)
 ```
-
-جاهز لنسخه إلى ملف `README.md` أو GitHub bio.  
-هل ترغب بإضافة قسم الشهادات أو GitHub stats؟
