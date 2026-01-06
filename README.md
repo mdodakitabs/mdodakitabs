@@ -11,7 +11,9 @@
 ### 🚀 2026 Core Tech Stack
 *I specialize in high-performance meta-frameworks and AI-assisted development workflows.*
 
-https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
+https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=Black
+
+
 ![React 19](img.shields.io)
 ![TypeScript](img.shields.io)
 ![Tailwind CSS](img.shields.io)
