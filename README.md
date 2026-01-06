@@ -27,6 +27,22 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=JavaScript&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
 
 
+‎![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+‎
+‎
+‎![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+‎
+‎
+‎![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+‎
+‎![Static Badge](https://img.shields.io/badge/node_js-none?style=for-the-badge&logo=nodedotjs&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3DBlack)
+‎
+‎
+
+
+
+
+
 
 
 
