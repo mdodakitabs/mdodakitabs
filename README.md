@@ -2,8 +2,8 @@
 
 ### About Me
 - 🔭 I’m currently working on **e-commerce project**
-- 🌱 I’m currently learning **[Next.js 15, Three.js]**
-- ⚡ Fun fact: **[I love football/ I built my first site at 2024]**
+- 🌱 I’m currently learning ** Next.js 15, TypeScript**
+- ⚡ Fun fact: ** I love football/ I built my first site at 2024 **
 
 ---
 
