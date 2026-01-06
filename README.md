@@ -1,9 +1,9 @@
 # Hi there, I'm Mohamed Diakite 👋
 
 ### About Me
-- 🔭 I’m currently working on **e-commerce project**
+- 🔭 I’m currently working on e-commerce project
 - 🌱 I’m currently learning...TypeScript
-- ⚡ Fun fact: ** I love football/ I built my first site at 2024 **
+- ⚡ Fun fact:  I love football/ I built my first site at 2024
 
 ---
 
