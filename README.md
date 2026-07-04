@@ -20,6 +20,7 @@ I am a **Front-End Developer & Systems Automation Enthusiast** bridging the gap 
 ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![NodeJS](https://shields.io)
 
 * **AI Pair Tools:** Cursor / GitHub Copilot / Claude 3.5 Sonnet
 * **Infrastructure:** Vercel Edge / Supabase / Cloudflare Workers
