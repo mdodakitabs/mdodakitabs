@@ -34,7 +34,7 @@ I am a **Front-End Developer & Systems Automation Enthusiast** bridging the gap 
 
 ### 📂 Featured Technical Ecosystems
 
-1. **[Automated Network Security Scanner](https://github.com)** 🔒
+1. **[Automated Network Security Scanner](https://github.com/mdodakitabs/network-security-scanner)** 🔒
    - A high-performance, asynchronous network port scanner and vulnerability auditing tool engineered entirely in Node.js for automated infrastructure reconnaissance.
 
 2. **[Smart Sales & Expense Dashboard](https://mdodakitabs.github.io/sales-expense-dashboard/)** 📊
