@@ -37,10 +37,10 @@ I am a **Front-End Developer & Systems Automation Enthusiast** bridging the gap 
 1. **[Automated Network Security Scanner](https://github.com)** 🔒
    - A high-performance, asynchronous network port scanner and vulnerability auditing tool engineered entirely in Node.js for automated infrastructure reconnaissance.
 
-2. **[Smart Sales & Expense Dashboard](https://github.com)** 📊
+2. **[Smart Sales & Expense Dashboard](https://mdodakitabs.github.io/sales-expense-dashboard/)** 📊
    - Premium interactive financial platform built with JavaScript and Chart.js featuring LocalStorage persistence.
 
-3. **[SpeedType — Interactive Speed Tester](https://github.com)** ⌨️
+3. **[SpeedType — Interactive Speed Tester](https://mdodakitabs.github.io/Trying-speed-tester/)** ⌨️
    - Real-time performance metrics engine tracking dynamic keystroke accuracy and interactive data.
 
 4. **[Tech Agency Website](https://github.com)** 📡
