@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Diakite 👋
 
 ### 🚀 About Me
-I am a **Front-End Developer & Systems Automation Enthusiast** bridging the gap between high-performance web interfaces and secure network infrastructure. I leverage **Node.js** and modern frontend stacks combined with my expanding expertise in **Network Engineering** and **Cybersecurity** to build resilient, end-to-end digital ecosystems.
+I am a Frontend Developer & Cybersecurity Software Engineer blending responsive, modern web architecture with secure network engineering. Driven by a passion for automating infrastructure, auditing network configurations, and crafting intuitive, secure dashboards.
 
 - 🔭 **Current Focus:** Developing secure web applications, finishing my e-commerce project, and mastering network automation.
 - 🌱 **Learning & Exploring:** TypeScript, Network Penetration Testing, and Advanced Infrastructure Security.
