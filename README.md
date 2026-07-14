@@ -5,7 +5,7 @@ I am a Frontend Developer & Cybersecurity Software Engineer blending responsive,
 
 - 🔭 **Current Focus:** Developing secure web applications, finishing my e-commerce project, and mastering network automation.
 - 🌱 **Learning & Exploring:** TypeScript, Network Penetration Testing, and Advanced Infrastructure Security.
-- ⚡ **Fun Fact:** I love football and engineered my first web application in 2024.
+- ⚡ **Fun Fact:** I love football and engineered my first web application in 2023.
 
 ---
 
