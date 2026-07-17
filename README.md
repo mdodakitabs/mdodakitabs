@@ -19,7 +19,9 @@ I am a Frontend Developer & Cybersecurity Software Engineer blending responsive,
 ![Static Badge](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Static Badge](https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)
+![Static Badge]
+(https://img.shields.io/badge/deepmind-%234285F4.svg?style=for-the-badge&logo=deepmind&logoColor=white)
+(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 * **AI Pair Tools:** Cursor / GitHub Copilot / Claude 3.5 Sonnet
 * **Infrastructure:** Vercel Edge / Supabase / Cloudflare Workers
@@ -32,7 +34,7 @@ I am a Frontend Developer & Cybersecurity Software Engineer blending responsive,
 
 ---
 
-### 📂 Featured Technical Ecosystems
+### 📂![Static Badge] Featured Technical Ecosystems
 
 1. **[Automated Network Security Scanner](https://github.com/mdodakitabs/network-security-scanner)** 🔒
    - A high-performance, asynchronous network port scanner and vulnerability auditing tool engineered entirely in Node.js for automated infrastructure reconnaissance.
