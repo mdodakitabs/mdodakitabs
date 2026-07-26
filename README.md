@@ -4,7 +4,7 @@
 I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Automation 🤖, AppSec 🌐, and Infrastructure Defense 🛡️**. I bridge the gap between secure network engineering and interactive security telemetry dashboards to monitor and protect enterprise environments. Driven by a passion for automating infrastructure defense, auditing system configurations, and crafting secure, data-driven security products.
 
 
-- 🔭 **Current Focus:** Developing secure web applications, finishing my e-commerce project, and mastering network automation.
+- 🔭 **Current Focus:** Building cloud security automated pipelines and mastering network telemetry automation.
 - 🌱 **Learning & Exploring:** TypeScript, Network Penetration Testing, and Advanced Infrastructure Security.
 - ⚡ **Fun Fact:** I love football and engineered my first web application in 2023.
 
