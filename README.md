@@ -1,8 +1,7 @@
 # Hi there, I'm Mohamed Diakite 👋
 
 ### 🚀 About Me
-I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Automation 🤖, AppSec 🌐, and Infrastructure Defense 🛡️**. I bridge the gap between secure network engineering and interactive security telemetry dashboards to monitor and protect enterprise environments. Driven by a passion for automating infrastructure defense, auditing system configurations, and crafting secure, data-driven security products.
-
+I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Automation 🤖, AI-Driven Defense 🧠, AppSec 🌐, and Infrastructure Defense 🛡**.
 
 - 🔭 **Current Focus:** Building cloud security automated pipelines and mastering network telemetry automation.
 - 🌱 **Learning & Exploring:** Network Penetration Testing ⚔️, Advanced Infrastructure Security 🛡️, and Cloud Security Automation ☁️.
