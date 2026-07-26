@@ -23,6 +23,7 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 ![Static Badge](https://img.shields.io/badge/FastAPI-FastAPI?style=for-the-badge&logo=FastAPI&logoColor=%23009688&logoSize=20%25&color=black)
 ![Static Badge](https://img.shields.io/badge/Axios-axios?style=for-the-badge&logo=Axios&logoColor=%235A29E4&logoSize=20%25&color=red)
 ![Static Badge](https://img.shields.io/badge/Claude-Claude?style=for-the-badge&logo=Claude&logoColor=white&logoSize=20%25&color=%23D97757)
+![Static Badge](https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=Git&logoColor=white&logoSize=20%25&color=orange)
 
 
 
