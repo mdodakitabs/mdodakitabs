@@ -20,9 +20,11 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 
-* **AI Pair Tools:** Cursor / GitHub Copilot / Claude 3.5 Sonnet
-* **Infrastructure:** Vercel Edge / Supabase / Cloudflare Workers
-* **State & Data:** TanStack Query / Signals / Jotai
+#### 🤖 AI Engineering & Security Automation
+- **AI-Driven Security:** Prompt Engineering for threat analysis, integrating OpenAI/Claude APIs to automate source code security auditing.
+- **Agentic Workflows:** Designing autonomous security scripts and log analyzers using modern LLM capabilities.
+- **AI Pair Tools:** Deep workflow efficiency using Cursor, GitHub Copilot, and Claude 3.5 Sonnet.
+- 
 
 #### 🌐 Networking & Cybersecurity Toolkit
 * **Architecture & Simulation:** Network Topology Design, Cisco Ecosystems (Packet Tracer), Subnetting, Routing & Switching Protocols.
