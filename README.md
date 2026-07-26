@@ -17,6 +17,8 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 ![Static Badge](https://img.shields.io/badge/Python-pyhon?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=20%25&labelColor=Blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Go-GO?style=for-the-badge&logo=Go&logoColor=ocean&logoSize=20%25&labelColor=Blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Linux-linux?style=for-the-badge&logo=Linux&logoColor=yellow&logoSize=20%25&labelColor=Blue&color=black)
+![Static Badge](https://img.shields.io/badge/GitHub-github?style=for-the-badge&logo=Github&logoColor=white&logoSize=20%25&labelColor=Blue&color=black)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2B%2B?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoSize=20%25&labelColor=Blue&color=blue)
 
 
 
