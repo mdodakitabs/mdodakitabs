@@ -5,7 +5,7 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 
 
 - 🔭 **Current Focus:** Building cloud security automated pipelines and mastering network telemetry automation.
-- 🌱 **Learning & Exploring:** TypeScript, Network Penetration Testing, and Advanced Infrastructure Security.
+- 🌱 **Learning & Exploring:** Network Penetration Testing ⚔️, Advanced Infrastructure Security 🛡️, and Cloud Security Automation ☁️.
 - ⚡ **Fun Fact:** I love football and engineered my first web application in 2023.
 
 ---
