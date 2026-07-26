@@ -19,6 +19,13 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 ![Static Badge](https://img.shields.io/badge/Linux-linux?style=for-the-badge&logo=Linux&logoColor=yellow&logoSize=20%25&labelColor=Blue&color=black)
 ![Static Badge](https://img.shields.io/badge/GitHub-github?style=for-the-badge&logo=Github&logoColor=white&logoSize=20%25&labelColor=Blue&color=black)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2B%2B?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoSize=20%25&labelColor=Blue&color=blue)
+![Static Badge](https://img.shields.io/badge/Nodejs-nodejs?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=20%25&color=green)
+![Static Badge](https://img.shields.io/badge/FastAPI-FastAPI?style=for-the-badge&logo=FastAPI&logoColor=%23009688&logoSize=20%25&color=black)
+![Static Badge](https://img.shields.io/badge/Axios-axios?style=for-the-badge&logo=Axios&logoColor=%235A29E4&logoSize=20%25&color=red)
+![Static Badge](https://img.shields.io/badge/Claude-Claude?style=for-the-badge&logo=Claude&logoColor=white&logoSize=20%25&color=%23D97757)
+
+
+
 
 
 
