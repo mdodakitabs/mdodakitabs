@@ -13,6 +13,7 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 
 #### 💻 Software Engineering & AI Ecosystem
 
+![Static Badge](https://img.shields.io/badge/JavaScript-javascript?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=20%25&labelColor=Blue&color=yellow)
 ![Static Badge](https://img.shields.io/badge/Python-pyhon?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=20%25&labelColor=Blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Go-GO?style=for-the-badge&logo=Go&logoColor=ocean&logoSize=20%25&labelColor=Blue&color=blue)
 
