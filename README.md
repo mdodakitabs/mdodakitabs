@@ -31,19 +31,3 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 * **Vulnerability Assessment:** Network Reconnaissance (Nmap), Active Scanning & Footprinting, Security Auditing, OWASP Top 10 Mitigation.
 
 ---
-
-### 📂![Static Badge] Featured Technical Ecosystems
-
-1. **[Automated Network Security Scanner](https://github.com/mdodakitabs/network-security-scanner)** 🔒
-   - A high-performance, asynchronous network port scanner and vulnerability auditing tool engineered entirely in Node.js for automated infrastructure reconnaissance.
-
-2. **[Smart Sales & Expense Dashboard](https://mdodakitabs.github.io/sales-expense-dashboard/)** 📊
-   - Premium interactive financial platform built with JavaScript and Chart.js featuring LocalStorage persistence.
-
-3. **[SpeedType — Interactive Speed Tester](https://mdodakitabs.github.io/Trying-speed-tester/)** ⌨️
-   - Real-time performance metrics engine tracking dynamic keystroke accuracy and interactive data.
-
-4. **[Tech Agency Website](https://github.com)** 📡
-   - A fully responsive landing page showcasing advanced layout architecture and interactive UI/UX components.
-
----
