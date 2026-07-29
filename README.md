@@ -26,7 +26,9 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 ![Static Badge](https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=Git&logoColor=white&logoSize=20%25&color=orange)
 ![Static Badge](https://img.shields.io/badge/Rust-rust?style=for-the-badge&logo=Rust&logoColor=white&logoSize=20%25&color=orange)
 
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 
 
 #### 🤖 AI Engineering & Security Automation
