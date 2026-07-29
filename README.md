@@ -7,6 +7,9 @@ I am a **Cybersecurity Software Engineer** 💻 specializing in **Security Autom
 - 🌱 **Learning & Exploring:** Network Penetration Testing ⚔️, Advanced Infrastructure Security 🛡️, and Cloud Security Automation ☁️.
 - ⚡ **Fun Fact:** I love football and engineered my first web application in 2023.
 
+[![GitHub followers](https://img.shields.io/github/followers/mdodakitabs)](https://github.com/mdodakitabs)
+[![GitHub stars](https://img.shields.io/github/stars/mdodakitabs)](https://github.com/mdodakitabs)
+[![Twitter](https://img.shields.io/twitter/follow/mdodakitabs111)](https://twitter.com/mdodakitabs111)
 ---
 
 ### 🛠️ Tech Stack & Engineering Toolkit
